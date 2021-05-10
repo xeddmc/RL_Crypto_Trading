@@ -7,3 +7,4 @@ by Jeff Gradner
 * pandas 1.2.1
 * notebook 6.2.0
 * python-binance 0.7.11
+* plotly 4.14.3
